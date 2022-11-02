@@ -25,13 +25,18 @@ const handleDelete = (id) =>{
   <tr>
     <td>{Employees && Employees.length>0? Employees.map(item=><p>{item.name}</p>) :"No data"}</td>
     <td>{Employees && Employees.length>0? Employees.map(item=><p>{item.age}</p>) :"No data"}</td>
-    <td>{Employees && Employees.length>0? Employees.map(item=><p><button onClick={()=>alert("Edit")} >Edit</button>
+    <td>{Employees && Employees.length>0? Employees.map(item=><p><Link to={'/edit'}><button onClick={()=>alert("Edit")} >Edit</button></Link>
    &nbsp;
     <button onClick={()=>handleDelete(item.id)}>Delete</button></p>) :"No data"}</td>
   </tr>
 
 
 </table>
+<br>
+</br>
+<Link to={'create'}>
+  <button>Create</button>
+</Link>
 </div>
   )
 }
