@@ -18,7 +18,7 @@ const handleDelete = (id) =>{
     <div>
     <table>
   <tr>
-    <th>Name</th>
+    <th>Names</th>
     <th>Age</th>
     <th>Actions</th>
   </tr>
