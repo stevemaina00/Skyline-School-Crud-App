@@ -1,15 +1,15 @@
 {
-  "files": {
-    "main.css": "/Skyline-School-Crud-App%20/static/css/main.543f3f05.css",
-    "main.js": "/Skyline-School-Crud-App%20/static/js/main.951d9b53.js",
-    "static/js/787.ad4f4dcc.chunk.js": "/Skyline-School-Crud-App%20/static/js/787.ad4f4dcc.chunk.js",
-    "index.html": "/Skyline-School-Crud-App%20/index.html",
-    "main.543f3f05.css.map": "/Skyline-School-Crud-App%20/static/css/main.543f3f05.css.map",
-    "main.951d9b53.js.map": "/Skyline-School-Crud-App%20/static/js/main.951d9b53.js.map",
-    "787.ad4f4dcc.chunk.js.map": "/Skyline-School-Crud-App%20/static/js/787.ad4f4dcc.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.543f3f05.css",
-    "static/js/main.951d9b53.js"
-  ]
+  "main.css": "/Skyline-School-Crud-App/static/css/main.6733ea3f.chunk.css",
+  "main.js": "/Skyline-School-Crud-App/static/js/main.3bd61dbe.chunk.js",
+  "main.js.map": "/Skyline-School-Crud-App/static/js/main.3bd61dbe.chunk.js.map",
+  "static/js/1.9a706a69.chunk.js": "/Skyline-School-Crud-App/static/js/1.9a706a69.chunk.js",
+  "static/js/1.9a706a69.chunk.js.map": "/Skyline-School-Crud-App/static/js/1.9a706a69.chunk.js.map",
+  "static/js/2.7bfc3ead.chunk.js": "/Skyline-School-Crud-App/static/js/2.7bfc3ead.chunk.js",
+  "static/js/2.7bfc3ead.chunk.js.map": "/Skyline-School-Crud-App/static/js/2.7bfc3ead.chunk.js.map",
+  "runtime~main.js": "/Skyline-School-Crud-App/static/js/runtime~main.4a7f97be.js",
+  "runtime~main.js.map": "/Skyline-School-Crud-App/static/js/runtime~main.4a7f97be.js.map",
+  "static/css/main.6733ea3f.chunk.css.map": "/Skyline-School-Crud-App/static/css/main.6733ea3f.chunk.css.map",
+  "index.html": "/Skyline-School-Crud-App/index.html",
+  "precache-manifest.8da2b38894ae19e603cc15f221ff89d6.js": "/Skyline-School-Crud-App/precache-manifest.8da2b38894ae19e603cc15f221ff89d6.js",
+  "service-worker.js": "/Skyline-School-Crud-App/service-worker.js"
 }
