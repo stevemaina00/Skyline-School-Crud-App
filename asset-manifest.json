@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Skyline-School-Crud-App%20/static/css/main.543f3f05.css",
+    "main.js": "/Skyline-School-Crud-App%20/static/js/main.951d9b53.js",
+    "static/js/787.ad4f4dcc.chunk.js": "/Skyline-School-Crud-App%20/static/js/787.ad4f4dcc.chunk.js",
+    "index.html": "/Skyline-School-Crud-App%20/index.html",
+    "main.543f3f05.css.map": "/Skyline-School-Crud-App%20/static/css/main.543f3f05.css.map",
+    "main.951d9b53.js.map": "/Skyline-School-Crud-App%20/static/js/main.951d9b53.js.map",
+    "787.ad4f4dcc.chunk.js.map": "/Skyline-School-Crud-App%20/static/js/787.ad4f4dcc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.543f3f05.css",
+    "static/js/main.951d9b53.js"
+  ]
+}
